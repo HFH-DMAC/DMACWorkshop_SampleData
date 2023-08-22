@@ -1,0 +1,9 @@
+Column,Index,Datatype,Maxlength,Tags
+Patient ID,1,text,9,
+DOB,2,datetime,,PastDate
+Flu-Vaccinated,3,text,3,YesNo
+Sex,4,text,1,Gender
+Date of Score,5,datetime,,"PastDate, Post2020"
+Score,6,number ,,
+Age,7,number ,,
+State,8,text,2,
